@@ -1,0 +1,4 @@
+name: ChatLogger
+main: us.greenzack.ChatLogger.ChatLogger
+version: "0.1"
+commands:
